@@ -2,9 +2,12 @@
   <img width="350" height="350" src="https://user-images.githubusercontent.com/9441295/107376524-d96b5880-6a9e-11eb-9eba-094c439cfb07.png">
 </p>
 
-# uniswap-python
+# uniswap-python - un-unofficial fork of the uniswap module - adapted to work on Binance blockchains
 
-[![GitHub Actions](https://github.com/shanefontaine/uniswap-python/workflows/Test/badge.svg)](https://github.com/shanefontaine/uniswap-python/actions)
+* For the original uniswap module, please go [here](https://github.com/uniswap-python/uniswap-python)
+
+
+
 [![codecov](https://codecov.io/gh/uniswap-python/uniswap-python/branch/master/graph/badge.svg?token=VHAZHHLFX8)](https://codecov.io/gh/uniswap-python/uniswap-python)
 [![Downloads](https://pepy.tech/badge/uniswap-python)](https://pepy.tech/project/uniswap-python)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/shanefontaine/uniswap-python/master/LICENSE)
