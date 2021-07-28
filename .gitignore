@@ -3,7 +3,7 @@
 .env
 
 build/
-dist/
+#dist/
 .git/
 wheels/
 *.egg-info/
